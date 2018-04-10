@@ -10,4 +10,4 @@ _Я считаю, что слово cookies употребляется чаще 
 ### 1.
 ![](https://github.com/SOleynikova/hw6/blob/master/%D1%84%D0%BE%D1%82%D0%BE4.jpeg)
 ### 2.
-![](
+![](https://github.com/SOleynikova/hw6/blob/master/%D1%84%D0%BE%D1%82%D0%BE5.jpeg)
